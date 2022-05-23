@@ -29,6 +29,8 @@ This project is licensed under mit
 npm install
 This project utilizes MongoDB, you’ll need to deploy this application to Heroku using MongoDB Atlas if you'd like your own version of this.
 
+![image](https://user-images.githubusercontent.com/91150259/169889976-dfb9841f-4bde-4ae6-8939-4e3498e86bb9.png)
+
 https://daniels-budget-tracker.herokuapp.com/
 
 ## Contributing
